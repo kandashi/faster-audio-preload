@@ -5,3 +5,5 @@
 # Faster Audio Preload
 
 This module simply starts the preload of the next track in a playlist half way through the current track, rather than 20s before it ends
+
+It can also specify a playlist to auto-preload when a client logs in.
